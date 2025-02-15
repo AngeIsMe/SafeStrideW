@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <!-- Splash Screen Theme -->
     <style name="SplashScreenTheme" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenBackground">@color/white</item> <!-- Background color -->
+        <item name="windowSplashScreenBackground">@color/dark_blue</item> <!-- Background color -->
         <item name="windowSplashScreenAnimatedIcon">@mipmap/icon_foreground</item> <!-- App icon -->
         <item name="windowSplashScreenAnimationDuration">1000</item> <!-- Animation duration -->
         <item name="postSplashScreenTheme">@style/Theme.SafeStride</item> <!-- Main app theme -->

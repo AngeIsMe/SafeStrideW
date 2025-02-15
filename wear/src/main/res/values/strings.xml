@@ -5,4 +5,8 @@
     values-round/strings.xml for round devices.
     -->
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="emergency">Emergency</string>
+    <string name="emergency_button_shape">Emergency Button Shape</string>
+    <string name="assistance">Assistance</string>
+    <string name="scanning_for_devices">Scanning for Devices...</string>
 </resources>
