@@ -3,7 +3,7 @@
     <!-- Colors for Splash Screen -->
     <color name="white">#FFFFFF</color> <!-- White background -->
     <color name="black">#000000</color> <!-- Black text/icons -->
-    <color name="dark_blue">#041F56</color>
+    <color name="dark_blue">#2061DE</color>
 
     <!-- Primary Colors -->
     <color name="purple_500">#6200EE</color> <!-- Primary color -->
