@@ -46,6 +46,7 @@ dependencies {
     implementation(libs.play.services.wearable)
     implementation(libs.androidx.wear)
 
+
     // Compose BOM for consistent versions
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.core.ktx) // Or latest
